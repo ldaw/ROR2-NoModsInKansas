@@ -1,0 +1,19 @@
+{
+  "name": "NoModsInKansas",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ldaw/ROR2-NoModsInKansas/tree/master",
+  "description": "A modpack of core mods for friends or anyone else.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.3.1",
+    "tristanmcpherson-R2API-2.5.14",
+    "wildbook-TooManyFriends-1.1.1",
+    "TheRealElysium-EmptyChestsBeGone-1.1.1",
+    "ontrigger-ItemStatsMod-2.0.0",
+    "mries92-BetterCommandMenu-1.6.2",
+    "ThinkInvis-Yeet-1.2.0",
+    "MagnusMagnuson-BiggerBazaar-1.10.2",
+    "Pickleses-TeleporterShow-2.3.2",
+    "rob-Twitch-2.1.1",
+    "rob-PlayableTemplar-2.0.1"
+  ]
+}
