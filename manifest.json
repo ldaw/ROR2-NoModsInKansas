@@ -1,8 +1,8 @@
 {
   "name": "NoModsInKansas",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/ldaw/ROR2-NoModsInKansas/tree/master",
-  "description": "A modpack of core mods for friends or anyone else.",
+  "description": "A pack of core mods to improve gameplay without changing the game too much.",
   "dependencies": [
     "bbepis-BepInExPack-5.3.1",
     "tristanmcpherson-R2API-2.5.14",
@@ -14,6 +14,7 @@
     "MagnusMagnuson-BiggerBazaar-1.10.2",
     "Pickleses-TeleporterShow-2.3.2",
     "rob-Twitch-2.1.1",
-    "rob-PlayableTemplar-2.0.1"
+    "rob-PlayableTemplar-2.0.1",
+    "Moffein-BanditReloaded-2.1.2"
   ]
 }
